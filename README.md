@@ -56,7 +56,7 @@ static final Config configB2C = new Config(
     "https://login.live.com/oauth20_desktop.srf",
     clientSecret: "YOUR_CLIENT_SECRET",
     isB2C: true,
-    azureTennantName: "YOUR_TENANT_NAME",
+    azureTenantName: "YOUR_TENANT_NAME",
     userFlow: "YOUR_USER_FLOW",
     tokenIdentifier: "UNIQUE IDENTIFIER A",
   );
